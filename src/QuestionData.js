@@ -12,7 +12,7 @@ const questionArray = [
   //check it
   {
     key: 3,
-    value: "What is o was the name of the town your grandmother lived in?",
+    value: "What was the name of your first pet?",
   },
   { key: 4, value: "What is the first name of your oldest nephew?" },
   { key: 5, value: "What is the first name of your oldest niece?" },
@@ -42,6 +42,10 @@ const questionArray = [
     key: 19,
     value:
       "Where did you meet your spouse for the first time?(Enter name of city)",
+  },
+  {
+    key: 20,
+    value: "What is or was the name of the town your grandmother lived in?",
   },
 ];
 export default questionArray;
